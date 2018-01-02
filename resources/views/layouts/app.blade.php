@@ -29,7 +29,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ url('/') }}">
-                        Chimay
+                        Simple Laravel CRUD
                     </a>
                 </div>
 
